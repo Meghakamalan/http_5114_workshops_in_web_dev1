@@ -7,7 +7,7 @@ https://github.com/Meghakamalan/http_5114_workshops_in_web_dev1
  
 ## image:
 
-![workshop Screenshot](Img/Workshop-screenshot.png)
+![workshop Screenshot](Img/workshop-screenshot.png)
 
 ## What I Learned :
 * Creating and cloning repositories
